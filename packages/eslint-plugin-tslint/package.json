@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tslint",
-  "version": "22.0.0",
+  "version": "23.0.0",
   "private": true,
   "main": "dist/index.js",
   "typings": "src/index.ts",
@@ -32,7 +32,7 @@
     "tslint": "^5.0.0"
   },
   "devDependencies": {
-    "@corbinu/typescript-eslint-parser": "^22.0.0",
+    "@corbinu/typescript-eslint-parser": "^23.0.0",
     "@types/eslint": "^4.16.3",
     "@types/lodash.memoize": "^4.1.4",
     "tslint": "^5.11.0"
