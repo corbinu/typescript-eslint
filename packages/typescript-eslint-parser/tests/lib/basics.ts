@@ -26,13 +26,13 @@ describe('basics', () => {
 export const Price: React.SFC<PriceProps> = function Price(props) {}
 `;
     const config: Linter.Config = {
-      parser: '@typescript-eslint/parser',
+      parser: '@corbinu/typescript-eslint-parser',
       rules: {
         test: 'error'
       }
     };
 
-    linter.defineParser('@typescript-eslint/parser', parser);
+    linter.defineParser('@corbinu/typescript-eslint-parser', parser);
     linter.defineRule('test', {
       create(context: any) {
         return {

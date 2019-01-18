@@ -16,7 +16,7 @@ const rule = require('../../../lib/rules/no-misused-new'),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: '@typescript-eslint/parser'
+  parser: '@corbinu/typescript-eslint-parser'
 });
 
 ruleTester.run('no-misused-new', rule, {

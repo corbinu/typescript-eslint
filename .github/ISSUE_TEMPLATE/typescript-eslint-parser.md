@@ -1,5 +1,5 @@
 ---
-name: '@typescript-eslint/parser'
+name: '@corbinu/typescript-eslint-parser'
 about: Report an issue with the @typescript-eslint/parser package
 title: ''
 labels: 'package: parser, triage'

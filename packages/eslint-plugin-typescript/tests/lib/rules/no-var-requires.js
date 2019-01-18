@@ -16,7 +16,7 @@ const rule = require('../../../lib/rules/no-var-requires'),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: '@typescript-eslint/parser'
+  parser: '@corbinu/typescript-eslint-parser'
 });
 
 ruleTester.run('no-var-requires', rule, {

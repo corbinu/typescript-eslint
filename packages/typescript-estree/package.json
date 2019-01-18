@@ -1,5 +1,5 @@
 {
-  "name": "typescript-estree",
+  "name": "@corbinu/typescript-estree",
   "description": "A parser that converts TypeScript source code into an ESTree compatible form",
   "main": "dist/parser.js",
   "version": "18.1.0",

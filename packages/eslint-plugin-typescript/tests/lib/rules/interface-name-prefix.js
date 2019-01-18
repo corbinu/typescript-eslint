@@ -16,7 +16,7 @@ const rule = require('../../../lib/rules/interface-name-prefix'),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: '@typescript-eslint/parser'
+  parser: '@corbinu/typescript-eslint-parser'
 });
 
 ruleTester.run('interface-name-prefix', rule, {

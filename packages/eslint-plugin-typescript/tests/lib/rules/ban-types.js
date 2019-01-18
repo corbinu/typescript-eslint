@@ -16,7 +16,7 @@ const rule = require('../../../lib/rules/ban-types'),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: '@typescript-eslint/parser'
+  parser: '@corbinu/typescript-eslint-parser'
 });
 
 const options = [

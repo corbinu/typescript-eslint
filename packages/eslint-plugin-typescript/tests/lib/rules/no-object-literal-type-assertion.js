@@ -16,7 +16,7 @@ const rule = require('../../../lib/rules/no-object-literal-type-assertion'),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: '@typescript-eslint/parser',
+  parser: '@corbinu/typescript-eslint-parser',
   parserOptions: {
     ecmaVersion: 6,
     sourceType: 'module',
