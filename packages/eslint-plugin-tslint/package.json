@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tslint",
-  "version": "23.0.0",
+  "version": "25.0.1",
   "private": true,
   "main": "dist/index.js",
   "typings": "src/index.ts",

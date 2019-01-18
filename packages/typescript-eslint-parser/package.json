@@ -2,7 +2,7 @@
   "name": "@corbinu/typescript-eslint-parser",
   "description": "An ESLint custom parser which leverages TypeScript ESTree",
   "main": "dist/parser.js",
-  "version": "25.0.0",
+  "version": "25.0.1",
   "files": [
     "dist",
     "README.md",
@@ -38,7 +38,7 @@
     "typescript": "*"
   },
   "dependencies": {
-    "@corbinu/typescript-estree": "^23.0.0",
+    "@corbinu/typescript-estree": "^25.0.1",
     "eslint-scope": "^4.0.0",
     "eslint-visitor-keys": "^1.0.0"
   },
@@ -46,6 +46,6 @@
     "@types/eslint": "^4.16.5",
     "@types/eslint-visitor-keys": "^1.0.0",
     "@types/estree": "^0.0.39",
-    "@typescript-eslint/shared-fixtures": "^23.0.0"
+    "@typescript-eslint/shared-fixtures": "^25.0.1"
   }
 }

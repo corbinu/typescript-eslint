@@ -1,6 +1,6 @@
 {
   "name": "@corbinu/eslint-plugin-typescript",
-  "version": "23.0.0",
+  "version": "25.0.1",
   "description": "TypeScript plugin for ESLint",
   "keywords": [
     "eslint",
@@ -24,7 +24,7 @@
     "recommended:update": "node tools/update-recommended.js"
   },
   "dependencies": {
-    "@corbinu/typescript-eslint-parser": "^25.0.0",
+    "@corbinu/typescript-eslint-parser": "^25.0.1",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {

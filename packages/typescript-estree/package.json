@@ -2,7 +2,7 @@
   "name": "@corbinu/typescript-estree",
   "description": "A parser that converts TypeScript source code into an ESTree compatible form",
   "main": "dist/parser.js",
-  "version": "23.0.0",
+  "version": "25.0.1",
   "files": [
     "dist",
     "README.md",
@@ -41,7 +41,7 @@
     "typescript": "*"
   },
   "devDependencies": {
-    "@typescript-eslint/shared-fixtures": "^23.0.0",
+    "@typescript-eslint/shared-fixtures": "^25.0.1",
     "typescript": "~3.2.1"
   }
 }
